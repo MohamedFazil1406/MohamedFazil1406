@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Currently building backend and full-stack applications using Java, Spring Boot, React, and TypeScript.<br>- Interested in developing scalable software and secure REST APIs.<br>- Learning Microservices, System Design, Docker, and Cloud Technologies.<br>- Open to collaborating on software development and open-source projects.<br>- Strong foundation in Java, Spring Security, JWT, MySQL, PostgreSQL, OOP, and DSA.<br>- Passionate about solving real-world problems through technology.
+ Currently building backend and full-stack applications using Java, Spring Boot, React, and TypeScript.<br> Interested in developing scalable software and secure REST APIs.<br> Learning Microservices, System Design, Docker, and Cloud Technologies.<br> Open to collaborating on software development and open-source projects.<br> Strong foundation in Java, Spring Security, JWT, MySQL, PostgreSQL, OOP, and DSA.<br> Passionate about solving real-world problems through technology.
 
 
 ## 🌐 Socials:
