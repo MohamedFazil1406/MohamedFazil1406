@@ -11,15 +11,21 @@
 
 # 💫 About Me:
 
-💻 Full-Stack Developer with experience in Java, Spring Boot, React, Node.js, TypeScript, PostgreSQL, and MongoDB.
+💻 Computer Engineering Graduate (2026).
 
-🎓 Computer Engineering graduate (2026) with a passion for building scalable web applications, secure REST APIs, and cloud-ready solutions.
+🚀 Full-Stack Developer specializing in Java, Spring Boot, React, Node.js, and TypeScript.
 
-🚀 Currently expanding my expertise in Microservices, Docker, Kubernetes, CI/CD, AWS, and System Design.
+⚡ Passionate about building scalable web applications and secure REST APIs.
 
-🤝 Active open-source contributor, collaborating on real-world projects and continuously improving software development practices.
+☁️ Currently learning Microservices, Docker, Kubernetes, CI/CD, AWS, and System Design.
 
-🎯 Strong foundation in Java, Spring Security, JWT, SQL, OOP, Data Structures & Algorithms, and Software Engineering.
+🤝 Active open-source contributor collaborating on real-world software projects.
+
+🛠️ Skilled in Java, Spring Security, React, Node.js, TypeScript, PostgreSQL, MongoDB, Git, and Docker.
+
+📚 Strong foundation in OOP, Data Structures & Algorithms, SQL, and Software Engineering.
+
+🎯 Passionate about solving real-world problems through technology and continuous learning.
 
 
 # 🌐 Connect With Me
