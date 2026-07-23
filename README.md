@@ -4,13 +4,22 @@
                                                  
 ## Computer Engineering | software Developer | Open Source Learner | Tech Enthusiast
                  
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;BCA+Student+from+Dhanbad;software+Developer;Learning+Backend+Development;Open+Source+Contributor" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Computer+Graduate+from+Anjuman-I-Islam Khalsekar Technical Campus;software+Developer;Learning+Backend+Development;Open+Source+Contributor" />
       
 </div>
 
 
 # 💫 About Me:
- Currently building backend and full-stack applications using Java, Spring Boot, React, and TypeScript.<br> Interested in developing scalable software and secure REST APIs.<br> Learning Microservices, System Design, Docker, and Cloud Technologies.<br> Open to collaborating on software development and open-source projects.<br> Strong foundation in Java, Spring Security, JWT, MySQL, PostgreSQL, OOP, and DSA.<br> Passionate about solving real-world problems through technology.
+
+💻 Full-Stack Developer with experience in Java, Spring Boot, React, Node.js, TypeScript, PostgreSQL, and MongoDB.
+
+🎓 Computer Engineering graduate (2026) with a passion for building scalable web applications, secure REST APIs, and cloud-ready solutions.
+
+🚀 Currently expanding my expertise in Microservices, Docker, Kubernetes, CI/CD, AWS, and System Design.
+
+🤝 Active open-source contributor, collaborating on real-world projects and continuously improving software development practices.
+
+🎯 Strong foundation in Java, Spring Security, JWT, SQL, OOP, Data Structures & Algorithms, and Software Engineering.
 
 
 # 🌐 Connect With Me
