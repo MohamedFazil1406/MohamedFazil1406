@@ -1,3 +1,14 @@
+#  Hi, I'm Mohamed Fazil 
+                   
+<div align="center">
+                                                 
+## Computer Engineering | software Developer | Open Source Learner | Tech Enthusiast
+                 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;BCA+Student+from+Dhanbad;software+Developer;Learning+Backend+Development;Open+Source+Contributor" />
+      
+</div>
+
+
 # 💫 About Me:
  Currently building backend and full-stack applications using Java, Spring Boot, React, and TypeScript.<br> Interested in developing scalable software and secure REST APIs.<br> Learning Microservices, System Design, Docker, and Cloud Technologies.<br> Open to collaborating on software development and open-source projects.<br> Strong foundation in Java, Spring Security, JWT, MySQL, PostgreSQL, OOP, and DSA.<br> Passionate about solving real-world problems through technology.
 
