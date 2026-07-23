@@ -4,7 +4,7 @@
                                                  
 ## Computer Engineering | software Developer | Open Source Learner | Tech Enthusiast
                  
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=1200&lines=Welcome+to+my+GitHub!;Computer+Graduated+from+Anjuman-I-Islam+Khalsekar+Technical+Campus;Software+Developer;Learning+Backend+Development;Open+Source+Contributor" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=1150&lines=Welcome+to+my+GitHub!;Computer+Graduated+from+Anjuman-I-Islam+Khalsekar+Technical+Campus;Software+Developer;Learning+Backend+Development;Open+Source+Contributor" />
       
 </div>
 
