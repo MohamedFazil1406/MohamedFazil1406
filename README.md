@@ -39,6 +39,9 @@ https://www.linkedin.com/in/mohamedfazil1406/
 Email:
 mohamedfazil01406@gmail.com
 
+Website:
+https://www.fazil-coding.me/
+
 ---
 
 # 💻 Tech Stack:
