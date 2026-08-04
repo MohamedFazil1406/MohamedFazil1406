@@ -75,5 +75,5 @@ https://www.fazil-coding.me/
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohamedFazil1406&style=for-the-badge&color=0e75b6" />
+  <img src="https://komarev.com/ghpvc/?username=MohamedFazil1406&label=Profile%20Views&style=for-the-badge&color=58A6FF" alt="Profile Views" />
 </p><!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
