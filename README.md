@@ -51,18 +51,16 @@ https://www.fazil-coding.me/
 
 ---
 
-# 📈 GitHub Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedFazil1406&theme=tokyo-night&hide_border=true"
-    width="100%"
-  />
-</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=aeb7c260&height=2" width="100%"/>
+<div align="center"> <img src="https://github-analytics-incog.vercel.app/api?username=MohamedFazil1406&theme=github_dark&profile=false" alt="GitHub Analytics" /> </div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=aeb7c260&height=1" width="100%"/>
+
+
 
 ---
 
-# 🏆 GitHub Impact
 
 <p align="center">
   <img
