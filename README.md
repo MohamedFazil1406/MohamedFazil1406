@@ -42,6 +42,9 @@ mohamedfazil01406@gmail.com
 Website:
 https://www.fazil-coding.me/
 
+LeetCode:
+https://leetcode.com/u/mohomedfazil/
+
 ---
 
 #  Tech Stack:
